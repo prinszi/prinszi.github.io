@@ -1,0 +1,68 @@
+.navbar-custom .navbar-brand {
+    background: teal;
+    color: white;
+    position: relative;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    margin-left: 50pt;
+    padding-left: 10pt;
+    padding-right: 10pt
+}
+
+.navbar {
+    padding-top: 0pt;
+    padding-bottom: 0pt
+}
+
+body {
+    background: rgb(228, 226, 226);
+    width: 100%;
+    padding: 25pt
+}
+
+.container-fluid {
+    margin-top: 45pt;
+    margin-bottom: 45pt;
+    margin-left: 0pt;
+    margin-right: 45pt
+
+}
+
+.col-lg-7 {
+    margin: 20pt;
+    background: white;
+    padding: 25pt;
+}
+
+.col-lg-4 {
+    margin: 20pt;
+    background: white;
+    padding: 25pt;
+}
+
+.col-12 {
+    margin: 20pt;
+    background: white;
+    padding: 25pt;
+}
+
+h2 {
+    color: teal;
+    padding-bottom: 10pt
+}
+
+
+h3 {
+    color: teal
+}
+
+p {
+    margin-top:15pt
+}
+
+h6 {
+    color: black;
+    text-align: center
+}
